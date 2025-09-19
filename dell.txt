@@ -5,4 +5,5 @@ csgdtm-dvc-agent.dell.com
 saservices.dell.com
 *.dtd.dell.com
 *.amds.dell.com
+i.dell.com
 
