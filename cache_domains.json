@@ -1,11 +1,6 @@
 {
   "cache_domains": [
     {
-      "name": "dell",
-      "description": "CDN for Dell images and updates",
-      "domain_files": ["dell.txt"]
-    },
-    {
       "name": "test",
       "description": "CDN for Testing, recommended to enable for additional diagnostics",
       "domain_files": ["test.txt"]
