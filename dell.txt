@@ -1,4 +1,3 @@
-downloads.dell.com
 fta.dell.com
 ftasit.dell.com
 dellupdater.dell.com
@@ -6,3 +5,4 @@ csgdtm-dvc-agent.dell.com
 saservices.dell.com
 *.dtd.dell.com
 *.amds.dell.com
+
